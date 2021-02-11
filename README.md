@@ -1,5 +1,5 @@
 # ScreenTime Rank
-<img src="/ss/icon.png" align="left"
+<img src="icon.jpg" align="left"
 width="160" hspace="10" vspace="10">
 
 An Android Application written in Kotlin that collects usage stats <br>
@@ -15,15 +15,6 @@ out of all based on device screen time of the whole day.   <br>
 </a>  
 </p>
 
-## UI
-
-<img src="/ss/gif1.gif" 
-width="200" hspace="10" vspace="10">
-
-<img src="/ss/gif2.gif"  
-width="500" hspace="10" vspace="10">
-
-Has a responsive UI for Landscape orientation and For Tablet screens (achieved via Fragments )
 
 ## Download
 
