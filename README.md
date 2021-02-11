@@ -1,4 +1,4 @@
-# SCreenTime Rank
+# ScreenTime Rank
 <img src="/ss/icon.png" align="left"
 width="160" hspace="10" vspace="10">
 
