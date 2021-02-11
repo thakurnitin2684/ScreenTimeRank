@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ScreenTime Rank</string>
+    <string name="menuSignOut">Sign out</string>
+    <string name="createroom">Create Room</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="newroomlabel">Create New Room</string>
+    <string name="name">name</string>
+    <string name="nameHint">Name of Room</string>
+    <string name="create">CREATE</string>
+    <string name="todaysrank">Today\'s Rank</string>
+    <string name="rank">"out of 10 "</string>
+    <string name="rankNumber">#7</string>
+    <string name="lastUpdated">last updated 49 min ago</string>
+    <string name="delete">delete</string>
+    <string name="lastupdated">last updated 45 min ago</string>
+    <string name="exit">Exit</string>
+    <string name="invite">invite</string>
+    <string name="membersTotal">member 4</string>
+    <string name="actualTime">4:50</string>
+    <string name="statsMessage">the usage stats here are different from your android device settings section because those stats doesn\'t include all the usage stats(i.e. the time you spent on system launcher,recent tasks, digitalwellbeing etc.) . So the usage time here can be more than that</string>
+    <string name="deviceUsageStats">click here to see device usage stats</string>
+    <string name="appName">instagram</string>
+    <string name="comExample">com.example.appname</string>
+    <string name="clickHere">click here to see Details</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="interAdId">ca-app-pub-9091905143657596/4624495000</string>
+    <string name="nativeAdId">ca-app-pub-9091905143657596/9738410259</string>
+    <string name="ad">Ad</string>
+    <string name="adimage">adImage</string>
+    <string name="screenTime">Screen Time</string>
+    <string name="whichMeans">Which means %1$d user(s) out of %2$d have used their devices for longer period than you</string>
+    <string name="AboutApp">About App</string>
+    <string name="rateUs">Rate this App</string>
+    <string name="privacyPolicy">Privacy Policy</string>
+    <string name="help">Help</string>
+    <string name="about_copyright">Copyright © 2020 Nitin Thakur</string>
+    <string name="about_weblink">Source code available at https://github.com/thakurnitin2684/MyTasks</string>
+    <string name="about_email">For support or suggestion, email thakurnitin2684@gmail.com</string>
+    <string name="about_credits">Icons made by https://www.flaticon.com/authors/freepik   <b> Freepik</b> from  https://www.flaticon.com/  <b>Flaticon</b>  www.flaticon.com</string>
+    <string name="about_credits2">Other app icons derived from  https://material.io/ </string>
+    <string name="permissionMessage">This app requires your permission for device\'s usage stats. We will not intentionally share your data with anybody else, but it will we uploaded to servers.It will not be shown to anybody else.</string>
+    <string name="start">start</string>
+    <string name="next">next</string>
+    <string name="brandLine">Keep an eye on your screen time</string>
+    <string name="createNew">Create a new room</string>
+    <string name="clickOn">click on +</string>
+    <string name="enterRoomName">Enter any name for your room</string>
+    <string name="InviteNew">Invite new members to your room</string>
+    <string name="seeYourRank">See your rank out of all of the members in that particular group</string>
+    <string name="ONeWith">one with rank #1 has most screen time</string>
+    <string name="clickOnList">Click on any room in the list to get more details</string>
+    <string name="informationCollection">Information collection and use</string>
+    <string name="inform">This app compares the screen time of all the members and shows your rank to you and for that your data will be uploaded to servers and will not be intentionally shared with anybody else.  This app collects user\'s Usage Stats and  uploads it to servers to compare it with others. But the data is not shared with anybody else, it is just used so that we can show you your rank. Your rank will only be shown to you , not to others and other\'s rank will not be shown to you.  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.  The app does use third party services that may collect information used to identify you.</string>
+    <string name="ByGoingForward" >By going forward you accept that you have read privacy policy and agree to the terms and conditions</string>
+    <string name="ReadTheFull">Read full privacy policy :  https://sites.google.com/view/screentimerank/home</string>
+    <string name="lastUpdtd">screen time data till %1$s:00 </string>
+
+</resources>

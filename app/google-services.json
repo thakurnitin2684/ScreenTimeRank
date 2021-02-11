@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776958444089",
+    "firebase_url": "https://screentime-rank.firebaseio.com",
+    "project_id": "screentime-rank",
+    "storage_bucket": "screentime-rank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776958444089:android:15bc1779190ea79489c3e8",
+        "android_client_info": {
+          "package_name": "com.thakurnitin2684.screentimerank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776958444089-4ovl8bqhifsi24glp0h5rf7f2kcm387u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5YCQ4HhcmuTe7sP7Iqirt5CKgkyqpEkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776958444089-4ovl8bqhifsi24glp0h5rf7f2kcm387u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

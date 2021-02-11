@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/signOut"
+        android:orderInCategory="100"
+        android:title="@string/menuSignOut"
+        app:iconTint="?attr/colorError" />
+    <item
+        android:id="@+id/help"
+        android:title="@string/help" />
+    <item
+        android:id="@+id/createRoom"
+        android:icon="@drawable/add_room"
+        android:title="@string/createroom"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/aboutApp"
+        android:title="@string/AboutApp" />
+    <item
+        android:id="@+id/rateUs"
+        android:title="@string/rateUs" />
+    <item
+        android:id="@+id/privacyPolicy"
+        android:title="@string/privacyPolicy" />
+
+</menu>
