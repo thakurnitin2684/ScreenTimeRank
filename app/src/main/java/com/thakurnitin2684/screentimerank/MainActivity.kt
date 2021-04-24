@@ -68,10 +68,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-
-
-
-
         userId = FirebaseAuth.getInstance().currentUser?.uid
 
 

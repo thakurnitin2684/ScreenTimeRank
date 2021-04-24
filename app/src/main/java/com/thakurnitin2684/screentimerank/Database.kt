@@ -82,23 +82,7 @@ class Database {
 
     }
 
-//    fun testMethod(userId: String?, time: String) {
-//        val data = hashMapOf(
-//            "time" to arrayListOf(time)
-//        )
-//        var ref = database.collection("test").document(userId!!)
-//        ref.get().addOnSuccessListener { documentSnapshot ->
-//            val t = documentSnapshot.get("time")
-//            if (t == null) {
-//                database.collection("test").document(userId).set(data)
-//
-//            } else {
-//                database.collection("test").document(userId)
-//                    .update("time", FieldValue.arrayUnion(time))
-//
-//            }
-//        }
-//    }
+
 
 
     fun deleteRoom(userId: String, roomId: String) {

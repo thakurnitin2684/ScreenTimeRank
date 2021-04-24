@@ -6,6 +6,8 @@ import com.squareup.picasso.Transformation
 /**
  * credits @ https://stackoverflow.com/users/3852907/anirudh-sharma
  */
+
+//To show the image as circle in list view
 class CircleTransform : Transformation {
     override fun transform(source: Bitmap): Bitmap {
         val size = Math.min(source.width, source.height)
