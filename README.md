@@ -15,6 +15,11 @@ out of all based on device screen time of the whole day.   <br>
 </a>  
 </p>
 
+## UI
+
+1      |  2 |3 |4 |5
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![Alt text](/ss/img1.jpg?raw=false "Optional Title")  | ![Alt text](/ss/img2.jpg?raw=false "Optional Title") |![Alt text](/ss/img3.jpg?raw=false "Optional Title") |![Alt text](/ss/img4.jpg?raw=false "Optional Title") |![Alt text](/ss/img5.jpg?raw=false "Optional Title")
 
 ## Download
 
