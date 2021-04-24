@@ -30,6 +30,8 @@ out of all based on device screen time of the whole day.   <br>
   Used in app:
   - Written in Kotlin
   - Firebase
+  - Dynamic Links
+  - Firebase Cloud Notifications
   - NoSQl DBMS
   - Fragments 
   - Coroutines for accessing data from Database behind the ui
