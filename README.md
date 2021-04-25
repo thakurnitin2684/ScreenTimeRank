@@ -19,7 +19,7 @@ out of all based on device screen time of the whole day.   <br>
 
 1      |  2 |3 |4 |5
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![Alt text](/ss/img1.jpg?raw=false "Optional Title")  | ![Alt text](/ss/img2.jpg?raw=false "Optional Title") |![Alt text](/ss/img3.jpg?raw=false "Optional Title") |![Alt text](/ss/img4.jpg?raw=false "Optional Title") |![Alt text](/ss/img5.jpg?raw=false "Optional Title")
+![1](/ss/img1.png?raw=false "Optional Title")  | ![2](/ss/img2.png?raw=false "Optional Title") |![3](/ss/img3.png?raw=false "Optional Title") |![4](/ss/img4.png?raw=false "Optional Title") |![5](/ss/img5.png?raw=false "Optional Title")
 
 ## Download
 
