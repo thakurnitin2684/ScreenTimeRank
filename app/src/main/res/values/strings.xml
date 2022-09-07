@@ -56,5 +56,6 @@
     <string name="ByGoingForward" >By going forward you accept that you have read privacy policy and agree to the terms and conditions</string>
     <string name="ReadTheFull">Read full privacy policy :  https://sites.google.com/view/screentimerank/home</string>
     <string name="lastUpdtd">screen time data till %1$s:00 </string>
+    <string name="Today">Today</string>
 
 </resources>

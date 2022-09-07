@@ -7,17 +7,22 @@
     android:paddingStart="8dp"
     android:paddingTop="4dp"
     android:paddingEnd="8dp"
-    android:paddingBottom="4dp">
+    android:paddingBottom="10dp">
 
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/colorAccent"
-        app:cardCornerRadius="22dp">
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp"
+        app:cardUseCompatPadding="true"
+        android:divider="@null"
+        >
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:divider="@null">
 
             <TextView
                 android:id="@+id/roomName"
@@ -67,10 +72,22 @@
                 android:layout_marginBottom="8dp"
                 android:textColor="@color/colorSecondary"
                 android:textSize="36sp"
+                android:visibility="invisible"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/todayRank"
                 tools:text="@string/rankNumber" />
+
+            <ProgressBar
+                android:id="@+id/rankProgressBar"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="4dp"
+                android:indeterminateTint="@color/colorSecondary"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/todayRank" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </com.google.android.material.card.MaterialCardView>

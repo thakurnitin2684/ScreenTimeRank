@@ -11,9 +11,12 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardElevation="10dp"
+        card_view:cardUseCompatPadding="true">
 
-        <com.google.android.gms.ads.formats.UnifiedNativeAdView
+        <com.google.android.gms.ads.nativead.NativeAdView
             android:id="@+id/ad_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -86,9 +89,9 @@
                                         android:layout_height="wrap_content"
                                         android:isIndicator="true"
                                         android:numStars="5"
-                                        android:stepSize="0.5"
+                                        android:progressBackgroundTint="@color/colorAccentDark"
                                         android:progressTint="@color/colorAccentDark"
-                                        android:progressBackgroundTint="@color/colorAccentDark"/>
+                                        android:stepSize="0.5" />
                                 </LinearLayout>
 
                             </LinearLayout>
@@ -106,11 +109,12 @@
                                 android:layout_height="wrap_content"
                                 android:textSize="10sp" />
 
-                            <com.google.android.gms.ads.formats.MediaView
+                            <com.google.android.gms.ads.nativead.MediaView
                                 android:id="@+id/ad_media"
                                 android:layout_width="300dp"
                                 android:layout_height="175dp"
-                                android:layout_gravity="center_horizontal" />
+                                android:layout_gravity="center_horizontal"
+                                android:visibility="visible" />
 
                             <LinearLayout
                                 android:layout_width="wrap_content"
@@ -150,6 +154,6 @@
                 </com.google.android.material.card.MaterialCardView>
             </LinearLayout>
 
-        </com.google.android.gms.ads.formats.UnifiedNativeAdView>
+        </com.google.android.gms.ads.nativead.NativeAdView>
     </androidx.cardview.widget.CardView>
 </LinearLayout>
