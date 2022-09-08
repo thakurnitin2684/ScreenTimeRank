@@ -25,11 +25,16 @@ out of all based on device screen time of the whole day.   <br>
 
 [Download](https://play.google.com/store/apps/details?id=com.thakurnitin2684.screentimerank) ScreenTime Rank  from playstore.
 
+## Structure
+ - <strong> MVVM with FIREBASE </strong>
+<img src="/ss/structure_str.PNG">
 
 ## Overview
   Used in app:
-  - Written in Kotlin
+  - MVVM : This project follows android recommmended MVVM architecture, having seperate layers for data, Viewmodels and UI 
   - Firebase
+  - Kotlin
+  - Hilt
   - Dynamic Links
   - Firebase Cloud Notifications
   - NoSQl DBMS
@@ -37,6 +42,8 @@ out of all based on device screen time of the whole day.   <br>
   - Coroutines for accessing data from Database behind the ui
   - Recycler view
   - Dialogs
+
+
 
 ## License
 
